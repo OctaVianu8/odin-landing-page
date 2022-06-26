@@ -22,3 +22,10 @@
     padding: 6px 32px;
     font-weight: bold;
 }
+
+.footer {
+    text-align: center;
+    padding: 24px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
