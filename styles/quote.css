@@ -1,0 +1,19 @@
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    margin: 96px 128px;
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.author {
+    text-align: end;
+    margin-right: 142px;
+    margin-top: -80px;
+    color: #1F2937;
+    font-weight: bold;
+    font-size: 18px;
+}
